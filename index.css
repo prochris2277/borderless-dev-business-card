@@ -3,7 +3,7 @@ body{
 }
 
 
-.My-pic{
+.my-pic{
     width: 200px;
     border-radius: 10px;
     
@@ -19,13 +19,13 @@ body{
     text-align: center;
     background-color: rgb(87, 87, 94);
     color:  #dbc1ac;
-    border-bottom: 10px solid black;
-    margin-top: 15px;
+    border-bottom: 10px solid black; 
+     margin-top: 15px; 
 
 
      
  }
  
-.Profile{
+.profile{
     margin-top: 50px;
 }
