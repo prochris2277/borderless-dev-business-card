@@ -1,0 +1,31 @@
+body{
+    background-color: #dbc1ac;
+}
+
+
+.My-pic{
+    width: 200px;
+    border-radius: 10px;
+    
+ }
+
+ .card{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: rgb(87, 87, 94);
+    color:  #dbc1ac;
+    border-bottom: 10px solid black;
+    margin-top: 15px;
+
+
+     
+ }
+ 
+.Profile{
+    margin-top: 50px;
+}
